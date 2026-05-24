@@ -4,7 +4,7 @@ A hardware automation project that utilizes discrete digital inputs from push-bu
 >Built while following [Paul McWhorter's Arduino Tutorials](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP) series
 ---
 ## Demo
-![Project Demo](Dimmable_LED_wButtons.gif)
+![Project Demo](Dimmable_LED_With_Buttons.gif)
 
 ---
 ## How It Works
